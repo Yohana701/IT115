@@ -3,11 +3,10 @@
     "age": 34,
     "city": "New York,NY",
     "interest": [
-        "Golf",
-        "Running",
+        "Photography",
         "Football",
         "Traveling",
-        "History"
+        "Coding"
     ],
     "is_student": false
 }
